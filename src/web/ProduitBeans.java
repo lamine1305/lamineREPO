@@ -7,7 +7,7 @@ import metier.Produit;
 public class ProduitBeans {
 	private Produit produit = new Produit();
 	private ArrayList<Produit> list = new ArrayList<Produit>();
-	
+	111111111
 	public Produit getProduit() {
 		return produit;
 	}
