@@ -12,8 +12,10 @@ public class ProduitBeans {
 		return produit;
 	}
 	public void setProduit(Produit produit) {
-		this.produit = produit;
+		this.produit = produit
 	}
+	
+	
 	public ArrayList<Produit> getList() {
 		return list;
 	}
