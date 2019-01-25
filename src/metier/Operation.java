@@ -5,7 +5,7 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 
 public class Operation {
-
+N?N?2222222222
 	private ArrayList<Produit> produits = new ArrayList<Produit>();
 
 	public ArrayList<Produit> getProduits() {
